@@ -1,4 +1,4 @@
-# 360Align
+# Align360
 An Open Dataset and Software for Investigating QoE and Head Motion in 360◦ Videos with Alignment Edits. Employing the Double Stimulus method, 45 participants evaluated each of the 30 original-processed video pairs, generating a dataset of 5400 Comfort and Sense of Presence ratings. Concurrently, Head Motion (HM) was recorded from the Meta Quest 2 device during video consumption.
 
 ## Dataset
