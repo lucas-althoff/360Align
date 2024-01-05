@@ -19,8 +19,8 @@ An article on this dataset was submitted to ACM MMSys'24. If you use the resourc
 
 ```
 @InProceedings{
-    title = "VOLVQAD: An MPEG V-PCC Volumetric Video Quality Assessment Dataset",
-    author = "Lucas S. Althoff and Alessandro Rodriguez and Mylène C. Q. Farias",
+    title = "360Align: An Open Dataset and Software for Investigating QoE and Head Motion in 360$^\circ$ Videos with Alignment Edits",
+    author = "Lucas S. Althoff and Alessandro Rodrigues Silva and Mylène C. Q. Farias",
     booktitle = "Proceedings of the 15th ACM International Conference of Multimedia Systems (MMSys)",
     year = 2024,
     month = April,
